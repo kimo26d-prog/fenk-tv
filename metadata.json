@@ -1,0 +1,6 @@
+{
+  "name": "Fenk TV",
+  "description": "Fenk TV Streaming Platform with Cinematic Studio Intro & Sound FX, TMDB API Favorite Movies Integration & cURL Console, Live TV & EPG, Movies, Series, Creator Studio with Live Chat & Analytics, M3U Playlist Importer, and Android TV Remote Interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
